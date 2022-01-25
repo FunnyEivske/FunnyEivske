@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FunnyEivske
+- 👀 I’m interested in programming and game design
+- 🌱 I’m currently learning LUA
+- 📫 You can reach me through Email
